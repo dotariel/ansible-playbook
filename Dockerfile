@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER Ariel Alonso <aalonso@ipcoop.com>
+MAINTAINER Ariel Alonso <xsaint32@gmail.com>
 
 ENV PLAYBOOK "site.yml"
 ENV EXTRA_VARS ""
